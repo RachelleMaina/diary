@@ -9,7 +9,7 @@
     "nunjucks": "3.0.0",
     "dotenv": "4.0.0",
     "keystone-email": "1.0.5",
-    "async": "2.1.4"
+    "async": "3.2.2"
   },
   "devDependencies": {
     "eslint": "3.15.0",
